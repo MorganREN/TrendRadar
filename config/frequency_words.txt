@@ -114,18 +114,29 @@ ai
 
 比特币
 Bitcoin
+BTC
+
 Crypto
 加密货币
 区块链
-MicroStrategy
-微策略
+
 以太坊
-BTC
 ETH
 
 美股
+美联储
+
+微策略
+MicroStrategy
+
 英伟达
 Nvidia
+
+苹果
 Apple
-美联储
+
+港股
+Hong Kong
+香港
+
 
